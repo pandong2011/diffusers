@@ -176,3 +176,6 @@ tags
 
 # wandb
 wandb
+
+# directory of local dependency
+venv
